@@ -33,7 +33,7 @@ var
 implementation
 
 uses
-  DateUtils, FormRelAbastecimentos, HelpersPosto;
+  DateUtils, FormRelAbastecimentos, HelpersPosto, FireDAC.Stan.Param;
 
 {$R *.dfm}
 
